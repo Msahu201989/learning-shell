@@ -1,8 +1,8 @@
 # learning-shell
 List of Shell Scripting Topics
 
-1. Shebang & commands
-2. Print Comand
+1. Shebang & comments
+2. Print                  Command
 3. Redirectors & quotes Concept
 4. Variable concept
 5. input
