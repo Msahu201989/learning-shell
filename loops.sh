@@ -6,8 +6,14 @@
 # While Loop
 a=10
 while [ $a -gt 0 ]; do
+  if [ $a -eq 5 ]; then
+    break
+    fi
+# Break Loop applied
   ech Hello - $a
   a=$(($a-1))
+  sleep 1
+   # Sleep 1 will let output come slowly
   done
 
 
@@ -16,6 +22,8 @@ while [ $a -gt 0 ]; do
 # For Loop
 for fruit in apple banana orange ; do
   echo Fruit name = $fruit
+  sleep 1
+ # Sleep 1 will let output come slowly
   done
 
 

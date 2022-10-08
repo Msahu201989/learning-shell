@@ -117,6 +117,13 @@ Case command >> created case.sh check that
 
 ....
 
+Loops :  loop.sh check that 
+bash 
+# for and while 
+if inputs are quite fixed then for loop 
+if loop based on a expression and number of iteration based on expression the we choose while loop.
+
+# Break command is there to break a Loop; come out of loop
 
 
 
