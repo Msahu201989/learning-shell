@@ -113,7 +113,11 @@ file check (-f ,-e)
 
 .....
 
-Case command 
+Case command >> created case.sh check that 
+
+....
+
+
 
 
 
