@@ -10,7 +10,8 @@ List of Shell Scripting Topics
 7. Exit Status               (Command) echo status = $? 0 Ok non-zero failed
 8. Condition                 (Scripting Concept)
 9.  Loops                     (Scripting Concept)
-10. SED Editors                (Command)
+10. SED Editors                (Command)   sed -i '/root/ d' /tmp/pass
+
 
 
 SHE-BANG & COmments DOne 
