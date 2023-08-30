@@ -9,5 +9,5 @@ DATE=$(date)
 echo Today Date is $DATE
 
 # Arthemetic Substituion
-ABC=$((2+3+4))
+ADD=$((2+3+4))
 echo Addition of 2+3+4 is $ADD
