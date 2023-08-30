@@ -3,11 +3,11 @@ List of Shell Scripting Topics
 
 1. Shebang & comments
 2. Print                      Command 
-3. Redirectors & quotes Concept   Linux Concept   (Dont get output >_)
+3. Redirectors & quotes Concept   Linux Concept &>>  (Dont get output >_)
 4. Variable concept            (Scripting Concept)
 5. input                      (Scripting Concept)
 6. Function                  (Scripting Concept)
-7. Exit Status               (Command)
+7. Exit Status               (Command) echo status = $? 0 Ok non-zero failed
 8. Condition                 (Scripting Concept)
 9.  Loops                     (Scripting Concept)
 10. SED Editors                (Command)
