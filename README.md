@@ -126,6 +126,8 @@ if loop based on a expression and number of iteration based on expression the we
 
 # Break command is there to break a Loop; come out of loop
 
+# Exit command if Command fail then exit 
+
 
 
 
