@@ -1,5 +1,5 @@
 # There are 2 basic loop command
-# If we need to execute set of cmd again & again in continious itterative way then we use loops
+# If we need to execute set of cmd again & again in continious itterative way then we use loops.yml
 
 # While & for loop
 
